@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Account.cs" />
+    <Compile Include="InventoryClass.cs" />
+    <Compile Include="Inventory\Product.cs" />
+    <Compile Include="Inventory\ProductFolder\Beverage.cs" />
+    <Compile Include="Inventory\ProductFolder\Candy.cs" />
+    <Compile Include="Inventory\ProductFolder\Chip.cs" />
+    <Compile Include="Inventory\ProductFolder\Gum.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

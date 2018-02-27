@@ -1,0 +1,246 @@
+
+2/23/2018 10:04:03 PM FEED MONEY 6.41     6.41
+2/23/2018 10:04:03 PM  Item Potato Crisps A1 3.36    0.31  
+2/23/2018 10:04:03 PM  Item Grain Waves A3 0.61    -2.14  
+2/23/2018 10:04:03 PM GIVE CHANGE 0.00    0
+2/23/2018 10:04:37 PM FEED MONEY 6.41     6.41
+2/23/2018 10:04:37 PM  Item Potato Crisps A1 3.36    0.31  
+2/23/2018 10:04:37 PM  Item Grain Waves A3 0.61    -2.14  
+2/23/2018 10:04:37 PM GIVE CHANGE 0.00    0
+2/23/2018 10:05:25 PM FEED MONEY 66.41     66.41
+2/23/2018 10:05:25 PM  Item Potato Crisps A1 63.36    60.31  
+2/23/2018 10:05:25 PM  Item Grain Waves A3 60.61    57.86  
+2/23/2018 10:05:25 PM  Item Grain Waves A3 57.86    55.11  
+2/23/2018 10:05:25 PM  Item Wonka Bar B3 56.36    54.86  
+2/23/2018 10:05:25 PM  Item Little League Chew D2 55.41    54.46  
+2/23/2018 10:05:25 PM  Item Little League Chew D2 54.46    53.51  
+2/23/2018 10:05:25 PM  Item Grain Waves A3 51.71    48.96  
+2/23/2018 10:05:25 PM  Item Grain Waves A3 48.96    46.21  
+2/23/2018 10:05:25 PM  Item Grain Waves A3 46.21    43.46  
+2/23/2018 10:05:25 PM GIVE CHANGE 0.00    0
+2/23/2018 10:06:07 PM FEED MONEY 66.41     66.41
+2/23/2018 10:06:07 PM  Item Potato Crisps A1 63.36    60.31  
+2/23/2018 10:06:07 PM  Item Grain Waves A3 60.61    57.86  
+2/23/2018 10:06:07 PM  Item Grain Waves A3 57.86    55.11  
+2/23/2018 10:06:07 PM  Item Wonka Bar B3 56.36    54.86  
+2/23/2018 10:06:07 PM  Item Little League Chew D2 55.41    54.46  
+2/23/2018 10:06:07 PM  Item Little League Chew D2 54.46    53.51  
+2/23/2018 10:06:07 PM  Item Grain Waves A3 51.71    48.96  
+2/23/2018 10:06:07 PM  Item Grain Waves A3 48.96    46.21  
+2/23/2018 10:06:07 PM  Item Grain Waves A3 46.21    43.46  
+2/23/2018 10:06:07 PM GIVE CHANGE 0.00    0
+2/23/2018 10:47:42 PM FEED MONEY 66.41     66.41
+2/23/2018 10:47:42 PM  Item Potato Crisps A1 63.36    60.31  
+2/23/2018 10:47:42 PM  Item Grain Waves A3 60.61    57.86  
+2/23/2018 10:47:42 PM  Item Grain Waves A3 57.86    55.11  
+2/23/2018 10:47:42 PM  Item Wonka Bar B3 56.36    54.86  
+2/23/2018 10:47:42 PM  Item Little League Chew D2 55.41    54.46  
+2/23/2018 10:47:42 PM  Item Little League Chew D2 54.46    53.51  
+2/23/2018 10:47:42 PM  Item Grain Waves A3 51.71    48.96  
+2/23/2018 10:47:42 PM  Item Grain Waves A3 48.96    46.21  
+2/23/2018 10:47:42 PM  Item Grain Waves A3 46.21    43.46  
+2/23/2018 10:47:42 PM GIVE CHANGE 0.00    0
+2/23/2018 10:49:07 PM FEED MONEY 8.41     8.41
+2/23/2018 10:49:07 PM  Item Potato Crisps A1 5.36    2.31  
+2/23/2018 10:49:07 PM  Item Grain Waves A3 2.61    -0.14  
+2/23/2018 10:49:07 PM  Item Wonka Bar B3 1.11    -0.39  
+2/23/2018 10:49:07 PM  Item Little League Chew D2 0.16    -0.79  
+2/23/2018 10:49:07 PM GIVE CHANGE 0.00    0
+2/23/2018 10:50:19 PM FEED MONEY 8.41     8.41
+2/23/2018 10:50:19 PM  Item Potato Crisps A1 5.36    2.31  
+2/23/2018 10:50:19 PM  Item Grain Waves A3 2.61    -0.14  
+2/23/2018 10:50:19 PM  Item Wonka Bar B3 1.11    -0.39  
+2/23/2018 10:50:19 PM  Item Little League Chew D2 0.16    -0.79  
+2/23/2018 10:50:19 PM GIVE CHANGE 0.00    0
+2/24/2018 11:01:46 PM FEED MONEY 8.41     8.41
+2/24/2018 11:01:46 PM  Item Potato Crisps A1 5.36    2.31  
+2/24/2018 11:01:46 PM  Item Grain Waves A3 2.61    -0.14  
+2/24/2018 11:01:46 PM  Item Wonka Bar B3 1.11    -0.39  
+2/24/2018 11:01:46 PM  Item Little League Chew D2 0.16    -0.79  
+2/24/2018 11:01:46 PM GIVE CHANGE 0.00    0
+2/25/2018 4:41:50 PM FEED MONEY 20     20
+2/25/2018 4:42:00 PM  Item Triplemint D4 19.25    18.50  
+2/25/2018 4:42:03 PM  Item Triplemint D4 18.50    17.75  
+2/25/2018 4:42:04 PM  Item Triplemint D4 17.75    17.00  
+2/25/2018 4:42:06 PM  Item Triplemint D4 17.00    16.25  
+2/25/2018 4:42:08 PM  Item Triplemint D4 16.25    15.50  
+2/25/2018 9:45:32 PM FEED MONEY 33     33
+2/25/2018 9:45:57 PM  Item Potato Crisps A1 29.95    26.90  
+2/25/2018 9:45:58 PM  Item Potato Crisps A1 26.90    23.85  
+2/25/2018 9:45:58 PM  Item Potato Crisps A1 23.85    20.80  
+2/25/2018 9:45:59 PM  Item Potato Crisps A1 20.80    17.75  
+2/25/2018 9:45:59 PM  Item Potato Crisps A1 17.75    14.70  
+2/25/2018 9:46:21 PM  Item Stackers A2 16.30    14.85  
+2/25/2018 9:46:22 PM  Item Stackers A2 14.85    13.40  
+2/25/2018 9:46:34 PM FEED MONEY 10     10
+2/25/2018 9:46:38 PM FEED MONEY 10     20
+2/25/2018 9:46:41 PM  Item Potato Crisps A1 16.95    13.90  
+2/25/2018 9:46:42 PM  Item Potato Crisps A1 13.90    10.85  
+2/25/2018 9:46:43 PM  Item Potato Crisps A1 10.85    7.80  
+2/25/2018 9:46:44 PM  Item Potato Crisps A1 7.80    4.75  
+2/25/2018 9:46:45 PM  Item Potato Crisps A1 4.75    1.70  
+2/26/2018 9:53:18 AM FEED MONEY 15     15
+2/26/2018 9:53:23 AM  Item Potato Crisps A1 11.95    8.90  
+2/26/2018 9:53:52 AM  Item Stackers A2 10.50    9.05  
+2/26/2018 9:54:02 AM  Item Triplemint D4 9.75    9.00  
+2/26/2018 9:54:07 AM  Item Potato Crisps A1 6.70    3.65  
+2/26/2018 9:54:11 AM  Item Potato Crisps A1 3.65    0.60  
+2/26/2018 9:54:14 AM  Item Potato Crisps A1 0.60    -2.45  
+2/26/2018 9:56:51 AM FEED MONEY 30     30
+2/26/2018 9:56:55 AM  Item Potato Crisps A1 26.95    23.90  
+2/26/2018 9:56:56 AM  Item Potato Crisps A1 23.90    20.85  
+2/26/2018 9:56:57 AM  Item Little League Chew D2 22.95    22.00  
+2/26/2018 9:56:59 AM  Item Chiclets D3 22.20    21.45  
+2/26/2018 9:57:00 AM  Item Chiclets D3 21.45    20.70  
+2/26/2018 9:57:07 AM  Item Crunchie B4 19.70    17.95  
+2/26/2018 9:57:08 AM  Item Crunchie B4 17.95    16.20  
+2/26/2018 9:57:10 AM  Item Moonpie B1 16.15    14.35  
+2/26/2018 9:57:12 AM  Item Cowtales B2 14.65    13.15  
+2/26/2018 9:57:18 AM  Item Cowtales B2 13.15    11.65  
+2/26/2018 9:57:19 AM  Item Cowtales B2 11.65    10.15  
+2/26/2018 9:57:21 AM  Item Moonpie B1 9.85    8.05  
+2/26/2018 9:57:23 AM  Item Moonpie B1 8.05    6.25  
+2/26/2018 9:57:25 AM  Item Moonpie B1 6.25    4.45  
+2/26/2018 9:57:26 AM  Item Moonpie B1 4.45    2.65  
+2/26/2018 9:57:58 AM GIVE CHANGE 0.00    0
+2/26/2018 9:58:44 AM FEED MONEY 21     21
+2/26/2018 9:58:45 AM  Item Potato Crisps A1 17.95    14.90  
+2/26/2018 9:58:45 AM  Item Potato Crisps A1 14.90    11.85  
+2/26/2018 9:58:46 AM  Item Potato Crisps A1 11.85    8.80  
+2/26/2018 9:58:46 AM  Item Potato Crisps A1 8.80    5.75  
+2/26/2018 9:58:47 AM  Item U-Chews D1 7.95    7.10  
+2/26/2018 9:58:48 AM  Item Chiclets D3 7.20    6.45  
+2/26/2018 9:58:49 AM  Item Triplemint D4 6.45    5.70  
+2/26/2018 9:58:53 AM  Item Dr. Salt C2 4.95    3.45  
+2/26/2018 9:58:53 AM  Item Dr. Salt C2 3.45    1.95  
+2/26/2018 9:58:54 AM  Item Dr. Salt C2 1.95    0.45  
+2/26/2018 9:58:55 AM  Item Cola C1 0.70    -0.55  
+2/26/2018 9:59:02 AM GIVE CHANGE 0.00    0
+2/26/2018 10:10:55 AM FEED MONEY 2     2
+2/26/2018 10:10:58 AM FEED MONEY 4     6
+2/26/2018 10:11:07 AM  Item Potato Crisps A1 2.95    -0.10  
+2/26/2018 10:11:12 AM  Item Stackers A2 1.50    0.05  
+2/26/2018 10:11:14 AM  Item Stackers A2 0.05    -1.40  
+2/26/2018 10:11:17 AM GIVE CHANGE 0.00    0
+2/26/2018 10:25:58 AM FEED MONEY 33     33
+2/26/2018 10:26:00 AM  Item Potato Crisps A1 29.95    26.90  
+2/26/2018 10:26:00 AM  Item Potato Crisps A1 26.90    23.85  
+2/26/2018 10:26:00 AM  Item Potato Crisps A1 23.85    20.80  
+2/26/2018 10:26:01 AM  Item Potato Crisps A1 20.80    17.75  
+2/26/2018 10:26:01 AM  Item Potato Crisps A1 17.75    14.70  
+2/26/2018 10:26:05 AM  Item Stackers A2 16.30    14.85  
+2/26/2018 10:26:06 AM  Item Stackers A2 14.85    13.40  
+2/26/2018 10:26:06 AM  Item Stackers A2 13.40    11.95  
+2/26/2018 10:26:07 AM  Item Stackers A2 11.95    10.50  
+2/26/2018 10:26:07 AM  Item Stackers A2 10.50    9.05  
+2/26/2018 10:26:12 AM  Item Grain Waves A3 7.75    5.00  
+2/26/2018 10:26:13 AM  Item Grain Waves A3 5.00    2.25  
+2/26/2018 10:26:13 AM  Item Grain Waves A3 2.25    -0.50  
+2/26/2018 10:26:21 AM FEED MONEY 22     24.25
+2/26/2018 10:26:26 AM  Item Grain Waves A3 21.50    18.75  
+2/26/2018 10:26:26 AM  Item Grain Waves A3 18.75    16.00  
+2/26/2018 10:26:29 AM  Item Cloud Popcorn A4 15.10    11.45  
+2/26/2018 10:26:31 AM  Item Cloud Popcorn A4 11.45    7.80  
+2/26/2018 10:26:31 AM  Item Cloud Popcorn A4 7.80    4.15  
+2/26/2018 10:26:32 AM  Item Cloud Popcorn A4 4.15    0.50  
+2/26/2018 10:26:32 AM  Item Cloud Popcorn A4 0.50    -3.15  
+2/26/2018 10:26:36 AM GIVE CHANGE 0.00    0
+2/26/2018 10:26:52 AM FEED MONEY 44     44
+2/26/2018 10:26:55 AM  Item Potato Crisps A1 40.95    37.90  
+2/26/2018 10:26:56 AM  Item Potato Crisps A1 37.90    34.85  
+2/26/2018 10:26:58 AM  Item Potato Crisps A1 34.85    31.80  
+2/26/2018 10:26:59 AM  Item Potato Crisps A1 31.80    28.75  
+2/26/2018 10:26:59 AM  Item Potato Crisps A1 28.75    25.70  
+2/26/2018 10:27:09 AM  Item Stackers A2 27.30    25.85  
+2/26/2018 10:27:14 AM  Item Cola C1 26.05    24.80  
+2/26/2018 10:27:21 AM  Item Dr. Salt C2 24.55    23.05  
+2/26/2018 10:27:25 AM  Item Dr. Salt C2 23.05    21.55  
+2/26/2018 10:27:26 AM  Item Dr. Salt C2 21.55    20.05  
+2/26/2018 10:27:27 AM  Item Mountain Melter C3 20.05    18.55  
+2/26/2018 10:27:28 AM  Item Heavy C4 18.55    17.05  
+2/26/2018 10:27:30 AM  Item Heavy C4 17.05    15.55  
+2/26/2018 10:27:33 AM  Item Stackers A2 15.60    14.15  
+2/26/2018 10:27:34 AM  Item Grain Waves A3 12.85    10.10  
+2/26/2018 10:27:37 AM GIVE CHANGE 0.00    0
+2/26/2018 10:28:34 AM FEED MONEY 900     900
+2/26/2018 10:28:35 AM  Item Potato Crisps A1 896.95    893.90  
+2/26/2018 10:28:36 AM  Item Potato Crisps A1 893.90    890.85  
+2/26/2018 10:28:36 AM  Item Potato Crisps A1 890.85    887.80  
+2/26/2018 10:28:37 AM  Item Potato Crisps A1 887.80    884.75  
+2/26/2018 10:28:37 AM  Item Potato Crisps A1 884.75    881.70  
+2/26/2018 10:28:39 AM  Item Stackers A2 883.30    881.85  
+2/26/2018 10:28:39 AM  Item Stackers A2 881.85    880.40  
+2/26/2018 10:28:40 AM  Item Stackers A2 880.40    878.95  
+2/26/2018 10:28:40 AM  Item Stackers A2 878.95    877.50  
+2/26/2018 10:28:41 AM  Item Stackers A2 877.50    876.05  
+2/26/2018 10:28:43 AM  Item Grain Waves A3 874.75    872.00  
+2/26/2018 10:28:43 AM  Item Grain Waves A3 872.00    869.25  
+2/26/2018 10:28:43 AM  Item Grain Waves A3 869.25    866.50  
+2/26/2018 10:28:44 AM  Item Grain Waves A3 866.50    863.75  
+2/26/2018 10:28:44 AM  Item Grain Waves A3 863.75    861.00  
+2/26/2018 10:28:46 AM  Item Cloud Popcorn A4 860.10    856.45  
+2/26/2018 10:28:46 AM  Item Cloud Popcorn A4 856.45    852.80  
+2/26/2018 10:28:46 AM  Item Cloud Popcorn A4 852.80    849.15  
+2/26/2018 10:28:47 AM  Item Cloud Popcorn A4 849.15    845.50  
+2/26/2018 10:28:47 AM  Item Cloud Popcorn A4 845.50    841.85  
+2/26/2018 10:28:50 AM  Item Cola C1 844.25    843.00  
+2/26/2018 10:28:51 AM  Item Cola C1 843.00    841.75  
+2/26/2018 10:28:51 AM  Item Cola C1 841.75    840.50  
+2/26/2018 10:28:51 AM  Item Cola C1 840.50    839.25  
+2/26/2018 10:28:52 AM  Item Cola C1 839.25    838.00  
+2/26/2018 10:28:54 AM  Item Dr. Salt C2 837.75    836.25  
+2/26/2018 10:28:56 AM  Item Dr. Salt C2 836.25    834.75  
+2/26/2018 10:28:56 AM  Item Dr. Salt C2 834.75    833.25  
+2/26/2018 10:28:57 AM  Item Dr. Salt C2 833.25    831.75  
+2/26/2018 10:28:57 AM  Item Dr. Salt C2 831.75    830.25  
+2/26/2018 10:28:59 AM  Item Mountain Melter C3 830.25    828.75  
+2/26/2018 10:28:59 AM  Item Mountain Melter C3 828.75    827.25  
+2/26/2018 10:29:00 AM  Item Mountain Melter C3 827.25    825.75  
+2/26/2018 10:29:00 AM  Item Mountain Melter C3 825.75    824.25  
+2/26/2018 10:29:01 AM  Item Mountain Melter C3 824.25    822.75  
+2/26/2018 10:29:04 AM  Item Heavy C4 822.75    821.25  
+2/26/2018 10:29:04 AM  Item Heavy C4 821.25    819.75  
+2/26/2018 10:29:05 AM  Item Heavy C4 819.75    818.25  
+2/26/2018 10:29:05 AM  Item Heavy C4 818.25    816.75  
+2/26/2018 10:29:06 AM  Item Heavy C4 816.75    815.25  
+2/26/2018 10:29:08 AM  Item U-Chews D1 815.90    815.05  
+2/26/2018 10:29:08 AM  Item U-Chews D1 815.05    814.20  
+2/26/2018 10:29:09 AM  Item U-Chews D1 814.20    813.35  
+2/26/2018 10:29:09 AM  Item U-Chews D1 813.35    812.50  
+2/26/2018 10:29:10 AM  Item U-Chews D1 812.50    811.65  
+2/26/2018 10:29:12 AM  Item Little League Chew D2 811.55    810.60  
+2/26/2018 10:29:12 AM  Item Little League Chew D2 810.60    809.65  
+2/26/2018 10:29:13 AM  Item Little League Chew D2 809.65    808.70  
+2/26/2018 10:29:13 AM  Item Little League Chew D2 808.70    807.75  
+2/26/2018 10:29:14 AM  Item Little League Chew D2 807.75    806.80  
+2/26/2018 10:29:16 AM  Item Chiclets D3 807.00    806.25  
+2/26/2018 10:29:16 AM  Item Chiclets D3 806.25    805.50  
+2/26/2018 10:29:16 AM  Item Chiclets D3 805.50    804.75  
+2/26/2018 10:29:17 AM  Item Chiclets D3 804.75    804.00  
+2/26/2018 10:29:17 AM  Item Chiclets D3 804.00    803.25  
+2/26/2018 10:29:18 AM  Item Triplemint D4 803.25    802.50  
+2/26/2018 10:29:19 AM  Item Triplemint D4 802.50    801.75  
+2/26/2018 10:29:19 AM  Item Triplemint D4 801.75    801.00  
+2/26/2018 10:29:19 AM  Item Triplemint D4 801.00    800.25  
+2/26/2018 10:29:20 AM  Item Triplemint D4 800.25    799.50  
+2/26/2018 10:29:22 AM  Item Moonpie B1 798.45    796.65  
+2/26/2018 10:29:23 AM  Item Moonpie B1 796.65    794.85  
+2/26/2018 10:29:23 AM  Item Moonpie B1 794.85    793.05  
+2/26/2018 10:29:24 AM  Item Moonpie B1 793.05    791.25  
+2/26/2018 10:29:24 AM  Item Moonpie B1 791.25    789.45  
+2/26/2018 10:29:25 AM  Item Cowtales B2 789.75    788.25  
+2/26/2018 10:29:25 AM  Item Cowtales B2 788.25    786.75  
+2/26/2018 10:29:26 AM  Item Cowtales B2 786.75    785.25  
+2/26/2018 10:29:26 AM  Item Cowtales B2 785.25    783.75  
+2/26/2018 10:29:27 AM  Item Cowtales B2 783.75    782.25  
+2/26/2018 10:29:28 AM  Item Wonka Bar B3 782.25    780.75  
+2/26/2018 10:29:28 AM  Item Wonka Bar B3 780.75    779.25  
+2/26/2018 10:29:28 AM  Item Wonka Bar B3 779.25    777.75  
+2/26/2018 10:29:29 AM  Item Wonka Bar B3 777.75    776.25  
+2/26/2018 10:29:29 AM  Item Wonka Bar B3 776.25    774.75  
+2/26/2018 10:29:31 AM  Item Crunchie B4 774.50    772.75  
+2/26/2018 10:29:33 AM  Item Crunchie B4 772.75    771.00  
+2/26/2018 10:29:33 AM  Item Crunchie B4 771.00    769.25  
+2/26/2018 10:29:33 AM  Item Crunchie B4 769.25    767.50  
+2/26/2018 10:29:34 AM  Item Crunchie B4 767.50    765.75  
+2/26/2018 10:29:37 AM GIVE CHANGE 0.00    0

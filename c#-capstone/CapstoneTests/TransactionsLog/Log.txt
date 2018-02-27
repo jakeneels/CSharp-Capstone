@@ -1,0 +1,181 @@
+2/26/2018 10:48:03 AM  FEED MONEY                                        44                         44                  
+2/26/2018 10:48:04 AM  Item Potato Crisps        A1                   40.95                   37.90  
+2/26/2018 10:48:05 AM  Item Potato Crisps        A1                   37.90                   34.85  
+2/26/2018 10:48:05 AM  Item Potato Crisps        A1                   34.85                   31.80  
+2/26/2018 10:48:05 AM  Item Potato Crisps        A1                   31.80                   28.75  
+2/26/2018 10:48:06 AM  Item Potato Crisps        A1                   28.75                   25.70  
+2/26/2018 10:48:07 AM  Item Stackers             A2                   27.30                   25.85  
+2/26/2018 10:48:08 AM  Item Stackers             A2                   25.85                   24.40  
+2/26/2018 10:48:08 AM  Item Stackers             A2                   24.40                   22.95  
+2/26/2018 10:48:08 AM  Item Stackers             A2                   22.95                   21.50  
+2/26/2018 10:48:09 AM  Item Stackers             A2                   21.50                   20.05  
+2/26/2018 10:48:10 AM  Item Grain Waves          A3                   18.75                   16.00  
+2/26/2018 10:48:10 AM  Item Grain Waves          A3                   16.00                   13.25  
+2/26/2018 10:48:11 AM  Item Grain Waves          A3                   13.25                   10.50  
+2/26/2018 10:48:11 AM  Item Grain Waves          A3                   10.50                   7.75  
+2/26/2018 10:48:12 AM  Item Grain Waves          A3                   7.75                    5.00  
+2/26/2018 10:48:12 AM  GIVE CHANGE                                     0.00                    0
+2/26/2018 11:54:59 AM  FEED MONEY                                        33                    33                  
+2/26/2018 11:55:12 AM  FEED MONEY                                        33                    66                  
+2/26/2018 11:55:17 AM  FEED MONEY                                        33                    99                  
+2/26/2018 11:55:30 AM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 11:55:32 AM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 11:55:33 AM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 11:55:33 AM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 11:55:33 AM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 11:55:50 AM  Item Grain Waves          A3                   81.00                   78.25  
+2/26/2018 11:55:50 AM  Item Grain Waves          A3                   78.25                   75.50  
+2/26/2018 11:55:50 AM  Item Grain Waves          A3                   75.50                   72.75  
+2/26/2018 11:55:51 AM  Item Grain Waves          A3                   72.75                   70.00  
+2/26/2018 11:55:52 AM  GIVE CHANGE                                     0.00                    0
+2/26/2018 7:48:17 PM  FEED MONEY                                        33                    33                  
+2/26/2018 7:48:18 PM  Item Potato Crisps        A1                   29.95                   26.90  
+2/26/2018 7:48:20 PM  Item Potato Crisps        A1                   26.90                   23.85  
+2/26/2018 7:48:21 PM  Item Potato Crisps        A1                   23.85                   20.80  
+2/26/2018 7:48:22 PM  Item Potato Crisps        A1                   20.80                   17.75  
+2/26/2018 7:48:22 PM  Item Potato Crisps        A1                   17.75                   14.70  
+2/26/2018 7:48:44 PM  Item U-Chews              D1                   16.90                   16.05  
+2/26/2018 7:48:46 PM  Item Cola                 C1                   15.65                   14.40  
+2/26/2018 7:50:39 PM  FEED MONEY                                        22                    22                  
+2/26/2018 7:51:31 PM  Item Potato Crisps        A1                   18.95                   15.90  
+2/26/2018 7:53:40 PM  FEED MONEY                                        22                    22                  
+2/26/2018 7:53:53 PM  Item Potato Crisps        A1                   18.95                   15.90  
+2/26/2018 7:54:55 PM  FEED MONEY                                        22                    22                  
+2/26/2018 7:55:04 PM  Item Potato Crisps        A1                   18.95                   15.90  
+2/26/2018 8:01:43 PM  FEED MONEY                                         1                    1                   
+2/26/2018 8:01:49 PM  FEED MONEY                                        11                    12                  
+2/26/2018 8:02:16 PM  Item Potato Crisps        A1                   8.95                    5.90  
+2/26/2018 8:04:44 PM  FEED MONEY                                        22                    22                  
+2/26/2018 8:05:14 PM  FEED MONEY                                        22                    22                  
+2/26/2018 8:13:46 PM  FEED MONEY                                        22                    22                  
+2/26/2018 8:13:59 PM  Item Potato Crisps        A1                   18.95                   15.90  
+2/26/2018 8:14:12 PM  FEED MONEY                                        11                    11                  
+2/26/2018 8:14:14 PM  Item Potato Crisps        A1                   7.95                    4.90  
+2/26/2018 8:14:15 PM  Item Stackers             A2                   6.50                    5.05  
+2/26/2018 8:14:16 PM  Item Potato Crisps        A1                   3.45                    0.40  
+2/26/2018 8:19:58 PM  FEED MONEY                                        22                    22                  
+2/26/2018 8:22:43 PM  FEED MONEY                                        22                    22                  
+2/26/2018 8:25:10 PM  FEED MONEY                                        11                    11                  
+2/26/2018 8:25:38 PM  FEED MONEY                                        33                    33                  
+2/26/2018 8:25:55 PM  Item Potato Crisps        A1                   29.95                   26.90  
+2/26/2018 8:25:58 PM  Item Grain Waves          A3                   27.20                   24.45  
+2/26/2018 8:26:02 PM  Item Mountain Melter      C3                   25.70                   24.20  
+2/26/2018 8:26:04 PM  Item Mountain Melter      C3                   24.20                   22.70  
+2/26/2018 8:26:05 PM  Item U-Chews              D1                   23.35                   22.50  
+2/26/2018 8:30:29 PM  FEED MONEY                                     33.23                    33.23               
+2/26/2018 8:30:35 PM  Item Potato Crisps        A1                   30.18                   27.13  
+2/26/2018 8:30:35 PM  Item Potato Crisps        A1                   27.13                   24.08  
+2/26/2018 8:30:36 PM  Item Potato Crisps        A1                   24.08                   21.03  
+2/26/2018 8:30:36 PM  Item Potato Crisps        A1                   21.03                   17.98  
+2/26/2018 8:30:37 PM  Item Potato Crisps        A1                   17.98                   14.93  
+2/26/2018 8:31:27 PM  Item U-Chews              D1                   17.13                   16.28  
+2/26/2018 8:31:28 PM  Item Little League Chew   D2                   16.18                   15.23  
+2/26/2018 8:31:29 PM  Item Chiclets             D3                   15.43                   14.68  
+2/26/2018 8:31:30 PM  Item U-Chews              D1                   14.58                   13.73  
+2/26/2018 8:31:36 PM  FEED MONEY                                      1.32                    15.90               
+2/26/2018 8:31:42 PM  FEED MONEY                               1.111111111                    17.011111111        
+2/26/2018 8:31:50 PM  FEED MONEY                                        23                    40.011111111        
+2/26/2018 8:31:56 PM  Item Stackers             A2                   38.561111111            37.111111111  
+2/26/2018 8:31:56 PM  Item Stackers             A2                   37.111111111            35.661111111  
+2/26/2018 8:31:57 PM  Item Stackers             A2                   35.661111111            34.211111111  
+2/26/2018 8:31:57 PM  Item Stackers             A2                   34.211111111            32.761111111  
+2/26/2018 8:31:58 PM  Item Stackers             A2                   32.761111111            31.311111111  
+2/26/2018 8:31:59 PM  Item Grain Waves          A3                   30.011111111            27.261111111  
+2/26/2018 8:31:59 PM  Item Grain Waves          A3                   27.261111111            24.511111111  
+2/26/2018 8:32:00 PM  Item Grain Waves          A3                   24.511111111            21.761111111  
+2/26/2018 8:32:00 PM  Item Grain Waves          A3                   21.761111111            19.011111111  
+2/26/2018 8:32:01 PM  Item Grain Waves          A3                   19.011111111            16.261111111  
+2/26/2018 8:32:07 PM  Item U-Chews              D1                   18.161111111            17.311111111  
+2/26/2018 8:32:08 PM  Item U-Chews              D1                   17.311111111            16.461111111  
+2/26/2018 8:32:08 PM  Item U-Chews              D1                   16.461111111            15.611111111  
+2/26/2018 8:32:11 PM  Item Chiclets             D3                   15.711111111            14.961111111  
+2/26/2018 8:32:12 PM  Item Chiclets             D3                   14.961111111            14.211111111  
+2/26/2018 8:32:12 PM  Item Chiclets             D3                   14.211111111            13.461111111  
+2/26/2018 8:32:13 PM  Item Chiclets             D3                   13.461111111            12.711111111  
+2/26/2018 8:32:14 PM  Item Little League Chew   D2                   12.511111111            11.561111111  
+2/26/2018 8:32:14 PM  Item Little League Chew   D2                   11.561111111            10.611111111  
+2/26/2018 8:32:15 PM  Item Little League Chew   D2                   10.611111111            9.661111111  
+2/26/2018 8:32:15 PM  Item Little League Chew   D2                   9.661111111             8.711111111  
+2/26/2018 8:32:23 PM  Item Triplemint           D4                   8.911111111             8.161111111  
+2/26/2018 8:32:23 PM  Item Triplemint           D4                   8.161111111             7.411111111  
+2/26/2018 8:32:24 PM  Item Triplemint           D4                   7.411111111             6.661111111  
+2/26/2018 8:32:25 PM  Item Triplemint           D4                   6.661111111             5.911111111  
+2/26/2018 8:32:25 PM  Item Triplemint           D4                   5.911111111             5.161111111  
+2/26/2018 8:40:26 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:40:26 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:40:26 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:40:26 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:40:26 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:40:26 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:40:26 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:40:44 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:40:44 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:40:44 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:40:44 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:40:44 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:40:44 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:40:44 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:41:04 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:41:04 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:41:05 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:41:05 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:41:05 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:41:05 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:41:05 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:43:04 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:43:04 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:43:04 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:43:04 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:43:04 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:43:04 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:43:04 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:44:46 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:44:46 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:44:46 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:44:46 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:44:46 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:44:46 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:44:46 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:45:10 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:45:10 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:45:10 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:45:10 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:45:10 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:45:10 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:45:10 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:45:44 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:45:44 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:45:44 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:45:44 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:45:44 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:45:44 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:45:44 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:46:06 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:46:06 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:46:06 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:46:06 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:46:06 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:46:06 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:46:06 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:46:21 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:47:14 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:47:14 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:47:14 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:47:14 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:47:14 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:47:14 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:47:14 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:51:16 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:51:16 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:51:16 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:51:16 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:51:16 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:51:16 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:51:16 PM  Item Potato Crisps        A1                   83.75                   80.70  
+2/26/2018 8:51:32 PM  Item Cowtales             B2                   16.38                   14.88  
+2/26/2018 8:51:32 PM  GIVE CHANGE                                     0.00                    0
+2/26/2018 8:51:32 PM  Item Potato Crisps        A1                   95.95                   92.90  
+2/26/2018 8:51:32 PM  Item Potato Crisps        A1                   92.90                   89.85  
+2/26/2018 8:51:33 PM  Item Potato Crisps        A1                   89.85                   86.80  
+2/26/2018 8:51:33 PM  Item Potato Crisps        A1                   86.80                   83.75  
+2/26/2018 8:51:33 PM  Item Potato Crisps        A1                   83.75                   80.70  
